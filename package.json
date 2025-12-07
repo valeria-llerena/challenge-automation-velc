@@ -1,0 +1,16 @@
+{
+  "name": "prueba-api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "npx playwright test",
+    "test:ui": "npx playwright test --ui"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "@types/node": "^24.10.1",
+    "dotenv": "^16.0.0",
+    "typescript": "^5.0.0",
+    "xlsx": "^0.18.5"
+  }
+}
