@@ -37,7 +37,6 @@ Clonar mi proyecto
 
 ```bash
   git clone https://github.com/valeria-llerena/challenge-automation-velc.git
-  cd challenge-automation-velc
 ```
 
 Ir al directorio del proyecto
